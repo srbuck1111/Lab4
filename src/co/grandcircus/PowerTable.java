@@ -35,7 +35,9 @@ public class PowerTable {
 			System.out.println("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
 
 		} while (response.equalsIgnoreCase("y"));
-
+		
+		System.out.println("Goodbye");
+		
 		scan.close();
 
 	}
